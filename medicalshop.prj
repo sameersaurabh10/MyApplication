@@ -1,0 +1,63 @@
+%%Excelsior JET v11.3 project file
+
+-jpiiproject=C:\Users\malya\Desktop\Project\medicalshop.jpn
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace+
+-global-
+-gui+
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-jetcpenablemanualsettings+
+-multiapp+
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=100
+-inlinetolimit=1000
+-jetcplastpage:=PageCompile
+-jetrt=Desktop
+-jetvmprop=-Djet.gc.heaplimit:0 -Djet.stack.trace
+-main=MainForm
+-outputdir=.
+-outputname=medicalshop
+-saprofmode=JETCPONLY
+-saproftimeout=20
+-splash=../sa.png
+-stacklimit=900000
+-versioninfocompanyname=sameer&company
+-versioninfofiledescription=Medicalshop
+-versioninfolegalcopyright=Copyright \x00a9 2017 sameer&company
+-versioninfoproductname=Medicalshop
+-versioninfoproductversion=2.0.0.1
+
+
+
+
+!classpathentry ./dist/Project.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/thumbnailator-0.4.2-all.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/AbsoluteLayout.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/mysql-connector-java-5.1.23-bin.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+
+!module ../sss_F57_icon.ico
+

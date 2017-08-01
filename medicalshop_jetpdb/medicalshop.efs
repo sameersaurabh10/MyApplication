@@ -1,0 +1,11 @@
+1
+"."
+1
+  DIR "dist" "dist" HIDDEN
+  2
+    DIR "lib" "dist\lib" HIDDEN
+    3
+      FILE "mysql-connector-java-5.1.23-bin.jar" "C:\Users\malya\Desktop\Project\medicalshop_jetpdb\tmpres\mysql-connector-java-5.1.23-bin__3.jar" HIDDEN
+      FILE "thumbnailator-0.4.2-all.jar" "C:\Users\malya\Desktop\Project\medicalshop_jetpdb\tmpres\thumbnailator-0.4.2-all__1.jar" HIDDEN
+      FILE "AbsoluteLayout.jar" "C:\Users\malya\Desktop\Project\medicalshop_jetpdb\tmpres\AbsoluteLayout__2.jar" HIDDEN
+    FILE "Project.jar" "C:\Users\malya\Desktop\Project\medicalshop_jetpdb\tmpres\Project__0.jar" HIDDEN
